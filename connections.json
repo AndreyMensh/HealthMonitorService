@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=USER-PC\\SQLEXPRESS;Database=HealthMonitor;Trusted_Connection=True;"
+  }
+}
